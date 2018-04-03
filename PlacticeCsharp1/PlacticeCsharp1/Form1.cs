@@ -19,7 +19,8 @@ namespace PlacticeCsharp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            //改行の練習
+            //textBox1.Text = "a\r\nb";
         }
     }
 }
